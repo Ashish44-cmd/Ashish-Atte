@@ -1,0 +1,15 @@
+GITHUB ACTIONS APK BUILD
+
+Workflow:
+.github/workflows/build-apk.yml
+
+The workflow expects the Android Gradle project to contain gradlew and gradle/wrapper/.
+If those files are absent, generate/commit the Gradle wrapper once (Gradle 8.10.2 is the
+intended version for this project), then push again.
+
+After pushing to GitHub:
+1. Open Actions.
+2. Select "Build Android APK".
+3. Click "Run workflow".
+4. When complete, open the run and download the artifact:
+   Ashish-Atte-2.0.1-debug-apk

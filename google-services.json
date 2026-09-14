@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720934310752",
+    "project_id": "ashish-atte",
+    "storage_bucket": "ashish-atte.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720934310752:android:2f41cd961c9524282e8405",
+        "android_client_info": {
+          "package_name": "com.example.ashishatte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVyMxi0m0Ox4D5dmh939motQL9zxrYcyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
